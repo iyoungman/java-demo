@@ -4,7 +4,6 @@ import java.util.Optional;
 import java.util.stream.Collectors;
 
 /**
- * null.java
  * Created by youngman on 2018-12-17.
  */
 public class main {
